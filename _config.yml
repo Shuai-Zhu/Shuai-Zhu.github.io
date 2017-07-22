@@ -1,17 +1,17 @@
 # Site settings
-title: BY Blog
+title: Cogito, ergo sum
 SEOTitle: 朱帅的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: shuaizhu_1996@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 朱帅的博客, qiubaiying, 朱帅, iOS, Apple, iPhone"
+keyword: "Economics,Finance,Math,History"
 url: "http://Shuai-Zhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Shuai-Zhu/Shuai-Zhu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "You got a dream, you gotta protect it"
 sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
