@@ -92,6 +92,7 @@ service-worker: true
 
 
 # Friends
+'''
 friends: [
     {
         title: "WY",
@@ -107,3 +108,4 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+'''
